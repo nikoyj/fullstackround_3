@@ -1,0 +1,7 @@
+post https://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Martti Ahtisaari",
+    "number": "040-241241"
+}
